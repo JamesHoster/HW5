@@ -1,0 +1,18 @@
+.one{
+    background-color:red;
+}
+.two{
+    background-color: blue;
+}
+.three{
+  background-color: green;
+}
+body{
+    background-color: aqua;
+}
+#Spinbtn{
+    background-color: lawngreen;
+}
+.btnChange{
+    background-color: darkgreen !important;
+}
